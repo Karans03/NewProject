@@ -1,3 +1,3 @@
 # NewProject
 This is new 
-Author-Karan
+Author-Karan Singh 
